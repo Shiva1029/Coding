@@ -16,3 +16,7 @@ public class demo {
     }
 
 }
+
+/* Output */
+// Fibonacci
+// Not Finbonacci
